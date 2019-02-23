@@ -1,0 +1,44 @@
+{
+    "username": "GayHook",
+    "avatar_url": "https://i.imgur.com/FKROsc1.png",
+    "embeds": [
+        {
+            "color": 16763436,
+            "title": "Staff holds the final word in enforcing rules and punishments. Appeals are possible, but hostility towards a decision may result in further punishment.",
+            "fields": [
+                {
+                    "name": "2.1: Enforcement",
+                    "value": "Staff will try to not enforce rules too strictly: Context should always matter. Conversely, certain offenses are subject to faster, harsher punishment than normal."
+                },
+                {
+                    "name": "2.2: Rule Breaking",
+                    "value": "In general, Staff will follow this process for rule-breaking: Call out the broken rule, ideally in private chat, and issue a punishment related to the offense.As well, all offenses will be documented, along with screenshots of the behavior."
+                },
+                {
+                    "name": "2.3: __Offenses and Punishments__",
+                    "value": "Below is our 5 strike system"
+                },
+                {
+                    "name": "2.3a: 1st Offense",
+                    "value": "Request to stop"
+                },
+                {
+                    "name": "2.3b: 2nd Offense",
+                    "value": "Formal Warning"
+                },
+                {
+                    "name": "2.3c: 3rd Offense",
+                    "value": "Kick, roles stripped for 24 hours"
+                },
+                {
+                    "name": "2.3d: 4th Offense",
+                    "value": "Up to decision of staff, either a ban or kick with 72 hours role strip"
+                },
+                {
+                    "name": "2.3e: 5th Offense",
+                    "value": "Ban"
+                }
+            ]
+        }
+    ]
+}
