@@ -42,3 +42,98 @@
         }
     ]
 }
+{
+    "username": "GayHook",
+    "avatar_url": "https://i.imgur.com/FKROsc1.png",
+    "embeds": [
+        {
+            "color": 624349,
+            "fields": [
+                {
+                    "name": "3.1: #announcements",
+                    "value": "News, server updates; go here: <#312678652682960897>"
+                },
+                {
+                    "name": "3.2: #promotions",
+                    "value": "Links to free games and products being given with the Freebie role, plus the occasional ad; go here: <#521159562288431104>"
+                },
+                {
+                    "name": "3.3: #general",
+                    "value": "Anything goes - English only!; go here: <#214581602557100032>"
+                },
+                {
+                    "name": "3.4: #gaymes",
+                    "value": "Look for people to play with, news, updates, etc; go here: <#359175111129038849>"
+                },
+                {
+                    "name": "3.5: #literature",
+                    "value": "Discussions and suggestions for books; go here: <#455055424236814341>"
+                },
+                {
+                    "name": "3.6: #music",
+                    "value": "Share songs, hold listening parties, talk news and new tracks; go here: <#322124997202018314>"
+                },
+                {
+                    "name": "3.7: #sports",
+                    "value": "For people who are interested in sports, want to rave about their favorite teams, or for those who just want to talk about athleticism; go here: <#592364310932619264>"
+                },
+                {
+                    "name": "3.8: #tech",
+                    "value": "Advice, support, news, and any cool pictures of setups or new purchases; go here: <#359174922679091201>"
+                },
+                {
+                    "name": "3.9: #tv_movies",
+                    "value": "Advice on stuff to watch, hyping over new releases, trailers, theorycrafting. **Spoilers allowed**; go here: <#419335590257885184>"
+                },
+                {
+                    "name": "3.10: #aww",
+                    "value": "Cute animals, photos, etc; go here: <#320338798091436032>"
+                },
+                {
+                    "name": "3.11: #creative",
+                    "value": "Anything artsy goes here; Always give the source where you can!; go here: <#320340980542865408>"
+                },
+                {
+                    "name": "3.12: #events",
+                    "value": "Gather viewing parties using the role; also used for the occasional server event Staff may hold; go here: <#379075912609562624>"
+                },
+                {
+                    "name": "3.13: #food",
+                    "value": "Photos and recipes; go here: <#376985306290847747>"
+                },
+                {
+                    "name": "3.14: #memes",
+                    "value": "Self-explanatory, but all of our rules apply. Things that give you a chuckle, and follow the rules go here in: <#228376550578323459>"
+                },
+                {
+                    "name": "3.15: #smile",
+                    "value": "Wholesome videos, memes, pictures, or anything else that could motivate or warm the heart you'll find here: <#455032678757171211>"
+                },
+                {
+                    "name": "3.16: #trashbin",
+                    "value": "Catch-all for anything that might not belong anywhere else; go here: <#217151180340592641>"
+                },
+                {
+                    "name": "3.17: #serious",
+                    "value": "Seek out support, advice, or any kind of input on something that might be bothering you; go here: <#320327740081307650>"
+                },
+                {
+                    "name": "3.18: #venting",
+                    "value": "Same as above, but with no responses from others allowed; to get something off your chest head here: <#507214873839796224>"
+                },
+                 {
+                    "name": "3.19: #victories",
+                    "value": "Overcame an obstacle, solved a difficult problem in life, or a heartwarming story to share? Tell us all about it here: <#640267878649692161>"
+                },
+                {
+                    "name": "3.19: #voice",
+                    "value": "No mic? No problem! Talk to people in a voice channel through here; go here: <#320333246015733763>"
+                },
+                {
+                    "name": "3.20: #bot_commands",
+                    "value": "If you have a need for our server's bot, you can take care of it here - commands are pinned in the channel; go here: <#437322983569096706>"
+                }
+            ]
+        }
+    ]
+}
