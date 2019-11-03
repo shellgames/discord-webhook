@@ -1,9 +1,13 @@
 {
     "username": "GayHook",
-    "avatar_url": "https://imgur.com/a/8zjMi8x{",
+    "avatar_url": "https://i.imgur.com/FKROsc1.png",
     "embeds": [
         {
-            "color": 162559
+            "color": 162559,
+            "image": {
+                "url": "https://i.imgur.com/v3rGJiX.png"
+            
+            }
         }
     ]
 }
