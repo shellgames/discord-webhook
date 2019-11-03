@@ -46,7 +46,44 @@
     "username": "GayHook",
     "avatar_url": "https://i.imgur.com/FKROsc1.png",
     "embeds": [
+        {{
+    "username": "GayHook",
+    "avatar_url": "https://i.imgur.com/FKROsc1.png",
+    "embeds": [
         {
+            "color": 16763436,
+            "title": "Staff holds the final word in enforcing rules and punishments. Appeals are possible, but hostility towards a decision may result in further punishment.",
+            "fields": [
+                {
+                    "name": "2.1: Enforcement",
+                    "value": "Staff will try to not enforce rules too strictly. Context should always matter. Conversely, certain offenses are subject to faster, harsher punishment than normal."
+                },
+                {
+                    "name": "2.2: Rule Breaking",
+                    "value": "In general, Staff will follow this process for rule-breaking: Call out the broken rule, ideally in private chat, and issue a punishment related to the offense. As well, all offenses will be documented, along with screenshots of the behavior."
+                },
+                {
+                    "name": "2.3: __Offenses and Punishments__",
+                    "value": "Below is our 5 strike system \n __2.3a: 1st Offense__ \n Request to stop. \n __2.3b: 2nd Offense__ \nFormal Warning. \n __2.3c: 3rd Offense__\n Kick, roles stripped for 24 hours. \n __2.3d: 4th Offense__\n Up to decision of staff, either a ban or kick with 72 hours role strip. \n __2.3e: 5th Offense__ \n Ban, depending on the severity may include an appeal."
+                },
+                {
+                    "name": "2.4: Custom Status Enforcement",
+                    "value": "We the staff team will try to understand the intent of the status at issue. When approached by staff we ask that you simply communicate with us as to what your status means. Some statuses can be understood and left as they are, while others we will require a user to change them."
+                
+                },
+                 {
+                    "name": "2.5: Custom Status Rule Breaking",
+                    "value": "Staff will, in most cases, follow these guidelines for statuses that break the rules. A private discussion concerning the intent of the status, and issuing a punishment for the offense if one is necessary. Offenses will be documented by staff, as well as pictures relating to the event. \n If these rules are repeatedly broken by an individual, the punishment will increase in severity. "
+                },
+                  {
+                    "name": "2.6: Offenses and Punishment",
+                    "value": "__1st Incident__ \n Private discussion with the member. \n __2.6b 2nd Incident__ \n If anything is amiss, the member will be asked to change their status within a day. \n __2.6c 3rd Incident__ \n If the status has not been changed/removed staff will issue a role strip.\nIf the user changes their status, they will receive their roles back. \n __2.7 Offensive Statuses__ \n  Any status that is outwardly derogatory or offensive may result in a ban depending on the circumstance."
+                
+                }
+            ]
+        }
+    ]
+}
             "color": 624349,
             "fields": [
                 {
@@ -132,6 +169,44 @@
                 {
                     "name": "3.20: #bot_commands",
                     "value": "If you have a need for our server's bot, you can take care of it here - commands are pinned in the channel; go here: <#437322983569096706>"
+                }
+            ]
+        }
+    ]
+}
+{
+    "username": "GayHook",
+    "avatar_url": "https://i.imgur.com/FKROsc1.png",
+    "embeds": [
+        {
+            "color": 16763436,
+            "title": "Staff holds the final word in enforcing rules and punishments. Appeals are possible, but hostility towards a decision may result in further punishment.",
+            "fields": [
+                {
+                    "name": "2.1: Enforcement",
+                    "value": "Staff will try to not enforce rules too strictly. Context should always matter. Conversely, certain offenses are subject to faster, harsher punishment than normal."
+                },
+                {
+                    "name": "2.2: Rule Breaking",
+                    "value": "In general, Staff will follow this process for rule-breaking: Call out the broken rule, ideally in private chat, and issue a punishment related to the offense. As well, all offenses will be documented, along with screenshots of the behavior."
+                },
+                {
+                    "name": "2.3: __Offenses and Punishments__",
+                    "value": "Below is our 5 strike system \n __2.3a: 1st Offense__ \n Request to stop. \n __2.3b: 2nd Offense__ \nFormal Warning. \n __2.3c: 3rd Offense__\n Kick, roles stripped for 24 hours. \n __2.3d: 4th Offense__\n Up to decision of staff, either a ban or kick with 72 hours role strip. \n __2.3e: 5th Offense__ \n Ban, depending on the severity may include an appeal."
+                },
+                {
+                    "name": "2.4: Profile Pic/Custom Status Enforcement",
+                    "value": "We the staff team will try to understand the intent of the pfp/status at issue. When approached by staff we ask that you simply communicate with us as to what your pfp/status means. Some pfps/statuses can be understood and left as they are, while others we will require a user to change them."
+                
+                },
+                 {
+                    "name": "2.5: Profile Pic/Custom Status Rule Breaking",
+                    "value": "Staff will, in most cases, follow these guidelines for pfps/statuses that break the rules. A private discussion concerning the intent of the pfp/status, and issuing a punishment for the offense if one is necessary. Offenses will be documented by staff, as well as pictures relating to the event. \n If these rules are repeatedly broken by an individual, the punishment will increase in severity. "
+                },
+                  {
+                    "name": "2.6: Offenses and Punishment",
+                    "value": "__1st Incident__ \n Private discussion with the member. \n __2.6b 2nd Incident__ \n If anything is amiss, the member will be asked to change their status within a day. \n __2.6c 3rd Incident__ \n If the status has not been changed/removed staff will issue a role strip.\nIf the user changes their pfp/status, they will receive their roles back. \n __2.7 Offensive Profile Pics/Statuses__ \n  Any pfp/status that is outwardly derogatory or offensive may result in a ban depending on the circumstance."
+                
                 }
             ]
         }
