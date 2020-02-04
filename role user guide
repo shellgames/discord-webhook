@@ -1,0 +1,19 @@
+{
+    "username": "TestHook",
+    "avatar_url": "https://i.imgur.com/FKROsc1.png",
+    "embeds": [
+        {
+            "color": 7340214,
+            "title": "Role Assignment User Guide",
+            "fields": [
+                {
+                    "name": "Assigning Yourself a Role",
+                    "value": "To give yourself a role, use the syntax `!roleadd-<rolename>` . For instance, `!roleadd-gay` or `!roleadd-world-of-warcraft`"
+                },
+                 {
+                    "name": "Removing an Assigned Role",
+                    "value": "To remove a role from yourself use the syntax `!roledel-<rolename>` for instance `!roledel-gay` or  `!roledel-world-of-warcraft`"
+                }
+              ]
+        }
+]}
