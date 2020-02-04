@@ -1,0 +1,20 @@
+{
+    "username": "TestHook",
+    "avatar_url": "https://i.imgur.com/FKROsc1.png",
+    "embeds": [
+        {
+            "color": 16737792,
+            "title": "Staff MEE6 Reference Guide",
+            "fields": [
+                {
+                    "name": "MEE6 Dashboard (Admin +)",
+                    "value": "URL: https://mee6.xyz/dashboard/214581602557100032 \n - Used to customize the bot, commands, moderation tools, etc."
+                },
+                {
+                    "name": "**Commands**",
+                    "value": "```!warn <@user> <message>``` Logs a warning for offending user, user won't see the warning \n \n ```!ban <@user>``` Bans offending user \n\n ```!kick <@user>``` Kicks offending user \n\n ```!mute <@user>``` Mutes offending user in voice channels \n\n ```!deafen <@user>``` Deafens offending user in voice channels \n\n ```!infractions <@user>``` Shows a list of all offenses (warnings, kicks, automod warnings) by offending user \n\n __Other commands can be listed using:__ ```!help moderator```"
+                }
+            ]
+        }
+    ]
+}
